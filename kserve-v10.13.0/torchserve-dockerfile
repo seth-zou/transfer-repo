@@ -1,0 +1,1 @@
+from pytorch/torchserve-kfs:0.9.0
