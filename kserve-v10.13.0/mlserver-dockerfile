@@ -1,1 +1,1 @@
-docker.io/seldonio/mlserver:1.3.2
+from docker.io/seldonio/mlserver:1.3.2
