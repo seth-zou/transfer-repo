@@ -1,1 +1,1 @@
-from docker.io/kennethreitz/httpbin
+from kennethreitz/httpbin
