@@ -1,0 +1,1 @@
+from kserve/lgbserver:v0.13.0
