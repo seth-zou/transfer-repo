@@ -1,0 +1,1 @@
+from docker.io/projecthami/hami-webui-fe-oss:v1.0.4
